@@ -28,7 +28,7 @@ const YearsStat = ({ year, onClick }: IYearsStatProps) => {
         </div>
       </section>
       <hr color="red" />
-      
+
       {/* 2. 統一渲染邏輯，移除冗餘的 hasOwnProperty 判斷 */}
       {sortedYears.map((y) => (
         <YearStat key={y} year={y} onClick={onClick} />
