@@ -52,7 +52,7 @@ const quoteStyle = {
   color: '#555',
   marginTop: '0.8rem',
   fontFamily:  '"Kaiti", "STKaiti", "DFKai-SB", "cursive", serif',
-  fontWeight：'bold',
+  fontWeight: 'bold',
 };
 
 export default YearsStat;
