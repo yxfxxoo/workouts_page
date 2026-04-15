@@ -46,11 +46,9 @@ const YearsStat = ({
 };
 
 const quoteStyle = {
-  textAlign: 'right',     // 右對齊，展現落款感
-  fontSize: 'bold',     // 粗体
-  color: '#666',          // 顏色稍淡，不搶主文焦點
-  fontStyle: 'italic',    // 斜體增加文學氣息
-  marginTop: '0.5rem'     // 與上方文字保持距離
+  fontWeight: 'bold',
+  textAlign: 'right',
+  fontStyle: 'italic',
 };
 
 export default YearsStat;
