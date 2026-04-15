@@ -2,45 +2,52 @@ import YearStat from '@/components/YearStat';
 import useActivities from '@/hooks/useActivities';
 import { INFO_MESSAGE } from '@/utils/const';
 
-interface IYearsStatProps {
+const YearsStat = ({
+  year,
+  onClick,
+}: {
   year: string;
-  onClick: (year: string) => void;
-}
-
-const YearsStat = ({ year, onClick }: IYearsStatProps) => {
+  onClick: (_year: string) => void;
+}) => {
   const { years } = useActivities();
+  // make sure the year click on front
+  let yearsArrayUpdate = years.slice();
+  yearsArrayUpdate.push('Total');
+  yearsArrayUpdate = yearsArrayUpdate.filter((x) => x !== year);
+  yearsArrayUpdate.unshift(year);
 
-  // 1. 優化數組排序邏輯：將 'Total' 加入並把當前年份移到最前
-  const sortedYears = ['Total', ...years.filter((y) => y !== year)];
-  if (year !== 'Total') {
-    sortedYears.unshift(year);
-  }
-
+  // for short solution need to refactor
   return (
     <div className="fl w-100-l pb5 pr5-l">
       <section className="pb4" style={{ paddingBottom: '0rem' }}>
-        <div style={{ lineHeight: 1.8 }}>
+        <p style={{ lineHeight: 1.8 }}>
           {INFO_MESSAGE(years.length, year)}
           <br />
           <br />
-          在山野間我總能肆無忌憚地笑~
+          在山野间我总能肆无忌惮地笑~
+          <br />
           <p style={quoteStyle}>&ndash;&ndash;余小富</p>
-        </div>
+        </p>
       </section>
       <hr color="red" />
-
-      {/* 2. 統一渲染邏輯，移除冗餘的 hasOwnProperty 判斷 */}
-      {sortedYears.map((y) => (
-        <YearStat key={y} year={y} onClick={onClick} />
+      {yearsArrayUpdate.map((year) => (
+        <YearStat key={year} year={year} onClick={onClick} />
       ))}
+      {
+        // eslint-disable-next-line no-prototype-builtins
+        yearsArrayUpdate.hasOwnProperty('Total') ? (
+          <YearStat key="Total" year="Total" onClick={onClick} />
+        ) : (
+          <div />
+        )
+      }
     </div>
   );
 };
 
-const quoteStyle: React.CSSProperties = {
+const quoteStyle = {
   fontWeight: 'bold',
   textAlign: 'right',
-  margin: 0, // 修正 p 標籤默認邊距
 };
 
 export default YearsStat;
