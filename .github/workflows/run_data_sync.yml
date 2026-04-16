@@ -27,9 +27,9 @@ env:
   # please change to your own config.
   RUN_TYPE: strava # support strava/nike/garmin/coros/garmin_cn/garmin_sync_cn_global/keep/only_gpx/only_fit/nike_to_strava/strava_to_garmin/tcx_to_garmin/strava_to_garmin_cn/garmin_to_strava/garmin_to_strava_cn/oppo/db_updater, Please change the 'pass' it to your own
   ATHLETE: Edison
-  TITLE: MyWorkouts
-  MIN_GRID_DISTANCE: 1 # change min distance here
-  TITLE_GRID: Over 11km Workouts # also here
+  TITLE: 运动年鉴
+  MIN_GRID_DISTANCE: 15 # change min distance here
+  TITLE_GRID: 超过 15km 运动记录轨迹图 # also here
 
   # IGNORE_BEFORE_SAVING: True # if you want to ignore some data before saving, set this to True
   IGNORE_START_END_RANGE: 0 # Unit meter
