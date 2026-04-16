@@ -26,7 +26,7 @@ const YearsStat = ({
           <br />
           在山野间我总能肆无忌惮地笑~
           <br />
-          <p style={quoteStyle}>&ndash;&ndash;YuXueFu</p>
+          <p style={quoteStyle}>&ndash;&ndash;Edison Yu</p>
         </p>
       </section>
       <hr color="red" />
@@ -46,13 +46,8 @@ const YearsStat = ({
 };
 
 const quoteStyle = {
-  fontSize: '1.2rem',
-  textAlign: 'right',
-  letterSpacing: '0.05rem',
-  color: '#555',
-  marginTop: '0.8rem',
-  fontFamily:  '"Kaiti", "STKaiti", "DFKai-SB", "cursive", serif',
   fontWeight: 'bold',
+  textAlign: 'right',
 };
 
 export default YearsStat;
