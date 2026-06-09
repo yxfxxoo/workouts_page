@@ -38862,5 +38862,21 @@
 "elevation_gain": 204.0,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 18835183736,
+"name": "Zwift - Pacer Group Ride with Maria",
+"distance": 40162.3,
+"moving_time": "1:06:48",
+"type": "VirtualRide",
+"start_date": "2026-06-08 10:14:35+00:00",
+"start_date_local": "2026-06-08 18:14:35",
+"location_country": "Thio, Province Sud, \u65b0\u5580\u91cc\u591a\u5c3c\u4e9a, 98829, \u6cd5\u56fd;\u6cd5\u570b",
+"summary_polyline": "~}scCkqfu^Y\\y@}@u@hAwAFq@lDw@aAy@jA{@aAwA|AKwA{A[]yBwBp@iCkEkEjBJsBeC[FyBoBWRgBaCDt@oB_CsAJq@nCDFiCrBGX_CaDeA`AqAaB_C?}EmFgD}GGwFbEkElJt@~J_ArDwA~AgJfBeJ{EiCcEl@wG|BuDzF_ExBmGg@sC_EiEBgErAmBxFLzCs@z@qBJuCuBuFoBiAoD@_F~BoCOyD{HSiC\\_DnCkCxCkAxBwDJmCcAqG_DcGuCVyBlCqIpA}@c@u@{Bp@oCgAoA}@h@a@|AaCfAkGlBoCV_EhMjAbEwA|Ay@fFoB~AF`B~BlGW`BuAd@cGeAc@v@[|F_A\\yDeA{@nDy@j@wE}Cy@?}InNFtAdFbDu@lE|B~AJv@aCbC`DvBKdBmAx@sJ?{EjDmDbAi@pBuCr@SrFkFnBy@vBz@~CdFbDEzDz@fAdPpCjCfCvDfA|SjBzDvDDfEd@f@tSPP`DyFhGYpGg@zBgB~BD|BfSb@fDfIbBr@x@|AKjDcBzET~BbDhBbGqAhD\\tA~@rF`JjEtDvF{@`M{@vNiEbHoEpHhAtEyB~LrFrJ@fCm@rObCpGrBx@v@VrBhDp@?vBeBrADzApHzBtAzBvEyAjAyApF^tAwCm@_EtB}AGsBsByBeGjAk@mCNmApCoDMgCfD{@NeCgDmCqJuMsBmIcDsBaMeOH_NtDmE`BmIa@_LiIuPrFqI}BqJaACkFjFq@vKqBCQfBiAh@BlC_EgBwAnB}@{@s@jAgAEaAxDu@aAy@hA{@_AsA|AIuAqAKs@sCyBp@}BcEiEpBJwBeC]DwBoB]PcBaCBz@}AcC_B?i@rC@PuCbBDd@iCaDaA~@kB_BiBCaFgFcDcHGsCxAsBhCqD~Hn@dKm@vCyAvBiJrBuI{DaDmE^{GzB_EnGsErBmGi@kCgEkE?gDtAgCfFLhDm@vAaF_@cCkCoEeE]cJlCmBoA{BsFW_CZoDhCmCrDeBxAuBVyB}@qIcE{GuBl@kBfCaJtA}@i@u@aCl@_DkAq@oA`C}C|AoF|A}B?uEzMjAdEyAfBm@tE{BvBhC|IIxAqAz@oDmAcBBgAvHgATqDcAcBrEgAGqDuCmAr@eInNzFlEu@hEbCbBHp@cCfCvCpB@~AgBfAaJ?uBz@qAhB{DhAe@lB}CbAOfFqG|C@lD`GjE@hEv@dAbPrCvFxDvVhCpDjDd@tFhTV?tDoFrF[rGeAnDiAbA@zBfSh@fDbIhBx@v@dBM~CeBfFPpBxCjBfGmA`DP|A~@fFbI",
+"average_heartrate": 147.1,
+"average_speed": 10.021,
+"elevation_gain": 238.0,
+"source": "strava",
+"streak": 1
 }
 ]
