@@ -38926,5 +38926,21 @@
 "elevation_gain": 44.0,
 "source": "strava",
 "streak": 3
+},
+{
+"run_id": 18942794574,
+"name": "Zwift - Climb Portal: Col du T\u00e9l\u00e9graphe at 100% Elevation in France",
+"distance": 26176.0,
+"moving_time": "1:24:51",
+"type": "VirtualRide",
+"start_date": "2026-06-16 11:18:21+00:00",
+"start_date_local": "2026-06-16 19:18:21",
+"location_country": "Piste du camp des Sapins, Nakar\u00e9, Thio, Province Sud, \u65b0\u5580\u91cc\u591a\u5c3c\u4e9a, 98829, \u6cd5\u56fd;\u6cd5\u570b",
+"summary_polyline": "dlscCyzbu^{CiBoCs@gBV{@nAm@PiCGoCcAc@B{H~EqHdBwDzA{Cf@kCMiD`@oBz@yCByPxWwEbCi@?OcCeAcAoAGyAb@uBdD[fEu@b@_CP[TEf@rAzCf@Vn@]z@gBnAh@|AtAlB`El@f@GRaA@sFg@k@HO\\Zd@dE|@rAlE|AbCIb@cDcDqD{@cBv@aGf@g@j@c@rCkFImAhAgDdA}AtAqCu@oA_Ak@yGoAqCCkA\\q@M_@o@CoD`DaD}@w@T@f@dAh@p@z@hBNTj@UdAgG|Ew@lAThFEpGd@rG^x@~ErAnB~BEl@e@PkCoCq@F?`@jBdBZbBdAN|Bq@XTTpBl@JlCgFxEsEhDs@nA_ApDe@p@JxArChAx@zDbBjCH`Aj@hBxBr@jDlApCNxD`BhA`C\\GRoAGqDqA_AkAm@mD]MMR?dB\\bBrEvFxArF_@NWeAmDgDs@RVp@nAbAzAbDvCdEuAbERvBYIY}Dq@iC{@wAeA[iBwDk@_@kEi@_BuGqDaAaDyBoBTcBnAwBfF[jB@zEiA~CBbEMj@mCI}BnAeCBwBnAqErD}CYcJ{EqEA}CyDeAk@y@gBsAoJl@_EYc@wA_@Ws@l@uEi@m@WoCqByDd@_AIeAo@m@cA?s@p@GfAv@fArAGxBjELrBj@hAe@tAEvB`@l@bBv@k@|Dx@jHvAvDdDjDlAz@bE?rJbFdDLvH{F~BGjBeA~CBRY?qEl@wA^gBEwDPeBrBkFbBqAvAa@|@L~BjBtDhArAjGdEh@v@`@`BlDnBpA`AzCb@xETJPUQqBnAcEkCsD_BmDmBoBNWZFdD~CT|@XLVQ}AgGoEsFa@sDNYVRf@hD`AfApF~A\\I@_@uBWgBkAC}BOeAmAkCm@_Dw@sAiC_BiCOyDcBgA_AsAgCy@IyC^kBdA}Cl@kFfF_BpDo@h@WQOaBs@g@yCv@e@cBuByBJW\\BnCjCp@a@O_AyB{BgEaAU]m@oHDqGQgF`BqBhE_Df@_ASiAiBUsB{AKa@ZU`Cv@fA?lD_D^NYlBrApDh@lGn@x@hDlAb@?jAoAdDeAnAiAnFBf@kCj@s@pFc@~Aq@fA?`Bn@vDdDP[Ia@cBqCaAkDw@e@cDi@Ac@`AMzFh@b@EL_@s@w@_BmDuAqAcBs@wAxBa@DeBoDd@q@|BQp@e@\\iEhAqBjA}@|AQx@Zf@p@LzBVJlF_CxPaXCaAcBkB",
+"average_heartrate": 154.3,
+"average_speed": 5.142,
+"elevation_gain": 856.0,
+"source": "strava",
+"streak": 1
 }
 ]
