@@ -38990,5 +38990,21 @@
 "elevation_gain": 331.0,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 18996493340,
+"name": "Zwift - Aurora",
+"distance": 13155.0,
+"moving_time": "0:40:59",
+"type": "VirtualRide",
+"start_date": "2026-06-20 12:00:07+00:00",
+"start_date_local": "2026-06-20 20:00:07",
+"location_country": "Graciosa Bay Ward, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b",
+"summary_polyline": "rkq`A_vhs^QcAHi@d@YvBu@lAuAbCObBY`@?d@Rv@lA~@x@vAx@hAVNd@Bf@A`AWhBL\\hAPtB|@xC[TSFYAiBWc@m@c@g@OKUXiBe@sBJc@X[p@Gd@Fp@`@^?x@mA^Q\\R`@bATDzBcAlAU|@ChCN`@Uj@iBnAUG}AJMZEh@Lt@tAv@Gn@Fp@Tj@f@ZMTe@IOu@i@Eg@Lq@b@]lC?HFFTC~CHXl@Fh@MhDcB\\Gf@FhAlAx@Hf@TJNMr@m@pACXJLh@?f@_@l@Md@?zA`@PNLZD~@Cp@Pl@nCfBrDrBh@n@Cn@c@d@aAU}BTe@WsByBi@cB_@C]PGLGr@Bv@k@lAMx@o@b@_AFs@k@Wk@Kq@Co@DgA_@c@U?g@XGfBMjAMTUFWGKUEu@YaBKUUEUDIP?vBITi@L_A_@MRFTd@`ACZi@`@CX@v@ShCPnA@lAdAhBxAz@d@j@BZOrBHZnBp@j@tA?\\OZiEdGSDwA_Ai@O}@SeCQqDmAoBoAYa@U}@_A}@uAq@qADiAa@g@{AU]g@k@{AuAWm@Eu@KIcBIy@a@_@GqAXg@b@Cd@XnBK`@o@x@EPR`@pAr@Z\\LjAxAbCLjAGf@S`@_@Tg@DeB_Ae@@a@PIN@NtAjBPb@Bh@KLmAVa@Xg@?{@sBe@QoB~@w@n@aEb@YKo@iCWmD}@eBRyAEQk@y@Mm@He@T_@@WYu@g@s@u@_E@k@j@gB?cAGWY[uCaAW]Ms@EeADsDg@aC?e@LY`@WlBk@lAuAv@SnAAjBYp@F\\Zr@dAt@p@tAr@z@RTPLb@@~@YhC@X^NvAVv@d@l@HhC]TSFe@?aAKi@[]gAg@KQ?YVwAa@sAAc@Xs@v@Mf@Fn@^XBVMp@iAZIXR\\|@^JdB}@hB]p@AjBNl@EROn@kBjAWIsADMRGx@Ht@tAtAEbAZl@f@XMTe@q@i@OUCm@Ng@`@[lC?HFFTCfDNT`AAjAg@~BiAb@?XJfAlAp@Bf@RJPEd@w@fBF^\\Bt@c@l@MbAD`A\\X`@FnACp@Vj@xHpEb@`@L\\Qr@[TcAWeBVm@K}BcCk@eBa@Ae@d@AhBc@t@Q~@",
+"average_heartrate": 129.2,
+"average_speed": 5.35,
+"elevation_gain": 251.0,
+"source": "strava",
+"streak": 2
 }
 ]
