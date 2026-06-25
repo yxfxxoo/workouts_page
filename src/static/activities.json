@@ -39038,5 +39038,37 @@
 "elevation_gain": 25.0,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 19047309293,
+"name": "\u795e\u4ed9\u6e56",
+"distance": 6143.9,
+"moving_time": "0:35:49",
+"type": "Run",
+"start_date": "2026-06-24 10:01:29+00:00",
+"start_date_local": "2026-06-24 18:01:29",
+"location_country": "\u5927\u8fd0\u7eff\u9053, \u9f99\u57ce\u8857\u9053, \u9f99\u5c97\u533a, \u6df1\u5733\u5e02, \u5e7f\u4e1c\u7701, 518100, \u4e2d\u56fd",
+"summary_polyline": "cnniCuf_xTAAIDEP?hAIxAGv@@RIbBBl@f@rA|@hBzArD`@r@r@|Ad@p@d@d@JRHBHAt@m@RWVk@Lg@d@y@Le@Da@CMEEeAHMCECIMCO@YRk@CKKMQAYMISCOBOj@eA?c@ESMWu@g@EKAIHUn@s@TwA?u@MKUCiBNmAGaAWg@]o@[QUE?KLEf@G~AE`@?r@Eh@?NEtAB^L^`@t@h@xALN\\`Ab@v@Xv@Xd@HXVh@n@bAj@p@PXNBFCl@g@b@i@Tq@j@eALg@BY?OEMICQDk@DIAQOES?SNk@?KGIUEQIKMGW@SFM\\g@FQBMC]K]]YWOMOAQFMn@q@DMRmA@i@AMIGSCuBLU?}@Ke@O_@OgAm@SUIAGHALGdBGt@An@GzAAhAF`@j@nAPf@v@~AFRj@lAPXPf@V`@Rj@h@~@fAvAD@RGx@s@JMP_@Rs@d@w@L}@?[GEcAJQCIGGW?OPk@ASIKWEMGMQEQBQDMTWLUD[?[ESGI_Ao@GQBKLUb@c@FMPmABi@AOGGSA{BHy@Ca@Km@UqAq@W[OREl@GrA@TK`BGpB?PNd@n@|Aj@dAFRLVtAbD`AjBf@v@b@b@JRJFZKb@_@TYh@wA^o@Pq@@U?GEGKC}@BMCIIGMAM@YLa@AKIMSCQMGGEO?Yh@_ADU?[GW]]c@WKUBOX_@VUHSLm@Dg@@_@EOIEW?kBH{@Co@O_@Ou@a@]QYYI@Id@A`@Gn@QlFAd@DRLV@CAK",
+"average_heartrate": 153.6,
+"average_speed": 2.859,
+"elevation_gain": 19.0,
+"source": "strava",
+"streak": 3
+},
+{
+"run_id": 19048456564,
+"name": "Zwift - Volcano Climb in Watopia",
+"distance": 32521.3,
+"moving_time": "1:00:21",
+"type": "VirtualRide",
+"start_date": "2026-06-24 11:17:04+00:00",
+"start_date_local": "2026-06-24 19:17:04",
+"location_country": "Puma, Vanikoro, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b",
+"summary_polyline": "zh`fAsb~y^wJeDgEgCgByBsAaFTiD`IgGb@y@S_AiCmBMi@`CcAoAkOh@{C~AkCfC{AtDgAjMyAlEeAlAwAvBgF`EwBfBEpBb@pA|@bFpGhCj@nIgAh[wIbBKj@\\@xQa@zCuCvJ?tH[tB_B`@aIFq@y@yCkKgA{AiBWcBrBJfCfHhOyAp@mJpAcAx@Cn@zAd@vJqA|@VgBn@wK`AIj@nAd@dG]rDn@f@|DlB`CVnAg@~@gB`@Kj@fAxCfBRTj@c@b@_CH?b@`Ab@Sp@yCq@iCj@}FdFc@~@_BdKf@`QOlCy@zCi@Rk@SuBmB_AkDmBm@c@T}@jCuBdCmCc@oBvAsAa@_AgDfAyCdDuA~BNlBwBoAsCo@UiBLqC~AqB?iCm@oEd@wD`C]bBuApA}@jBCvAbCxFbBGx@kBnCs@vAt@d@rDKzDaBb@WfC`DdDhA\\rFqBxCn@jCgAt@q@n@yBhDaDf@wBS_DyA_CiAwDgAcAmHwAkJr@gCfAsCrEpBnKz@fApARr@Yb@uAdIeBh@RlAjBpBV|@Qd@uA@gC_CgFkDiBkDM}Cx@eCdCS~CxArEzCfBjCThBq@fB_DAiBs@yBuAgAmBOgB\\u@`AY`BNpAbA`BlAd@nCy@d@wA?uAw@}@kBe@aANwApAEe@n@wAjAc@nBAjAb@bAxA\\nBKnAeBnC{Bj@uCo@kBmAsAeEJyCfCmCzBq@~DJhD~A~B`FClCa@lAuDMaAkBo@M_IdBi@vAs@TgAQ_AuAaBqIB{@vCcE~CcA|Ig@fEt@rBdAvDxIHhEk@jA{CnCuA`DkDrAgCo@gFhBsA_@uCsCLcCtAOTa@FuDo@cEkAo@sCp@y@hBqATi@]mBmFb@sBnB}B\\_BfA_BgGkRSuBXm@fAk@jAL|BnBd@SCo@yEuKiKuDuD_CyByCiAwEHqBb@}@jHkFf@{@WcAyByA]w@dCiAqAoLZwEjBeDhDmBrXyEbAgA`CyFpBuAfBc@lCJnAh@pF~GfDhAlKwAdYcIdBOv@^?vQcBvIsAvDQ~KsBp@aICq@gA}CmKqAmAmAI_BbBGtBrHjPwAp@qJpAeAdALx@t@RfKuAbANaAn@mLdAWn@nAd@hD]lDFdBh@f@`ElB`CRz@Mx@iCz@Cl@hAtChBPPn@WZeCBIf@jAt@Q`@iDo@qCv@oA`ByDhDgBxKh@|OSnDy@|Cm@LcAk@aBeBk@oCmBy@q@Z_AnCaBrBo@NqBk@u@j@",
+"average_heartrate": 161.4,
+"average_speed": 8.981,
+"elevation_gain": 248.0,
+"source": "strava",
+"streak": 3
 }
 ]
