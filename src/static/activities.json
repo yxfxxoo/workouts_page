@@ -39166,5 +39166,21 @@
 "elevation_gain": 11.0,
 "source": "strava",
 "streak": 6
+},
+{
+"run_id": 19096988741,
+"name": "Zwift - Spiral into the Volcano in Watopia",
+"distance": 60657.1,
+"moving_time": "1:53:59",
+"type": "VirtualRide",
+"start_date": "2026-06-28 09:17:37+00:00",
+"start_date_local": "2026-06-28 17:17:37",
+"location_country": "Puma, Vanikoro, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b",
+"summary_polyline": "pp_fAcz~y^nCtKjR`JdF`L_@l@eEyBmBpBzGbUwFbLrBtGnBPpEcDlA`@f@tJkBt@M`CjExD|GiBj@dA}D|A~GLpFaCzMgXGkWpBmLzGeG`HHw@wBfDy@aC{@gAuC|CuCqDoKcOe@bOcDoOF|@wAnMgCoHySfBiBfBf@|FjObKK`AcALqKlDqMIeT{RrDyB_Ipv@mTGoLuEcFsBsHl@}IjH_EqCm@tBeAh@}BgFqLhEwDfAiElLuGPwGkBsD{Fe@YmCuBqAmB`@uElLcFgH_OoC{@_K`CgDNwCwAwRaBs@qLzC}Fc@_GsIrAe`@`EeEaDsCGsE}BgBkADqDpGkI}KyCPcAfBbDpFe@~DoGhAsCbEsIGaJhTx@tE~HpDp@~ByJvZLpC{B|B`E|FBdEiGzDgAnEtJ~OGxD}C~C~@tFcC`C}HTq@qA`A{C}Bu@k@cD_F_BgBr@_@dFyCE_AvAxBbFw@rGlBvHvHpG_ErTvE|Kv@~Hk@`ImE|MxCdHa@rGlAtKaC|AhDhEyInHa@tDfDnI`RtIpElKa@p@oD{ByBpAxGrV{FlLdD|GxCiCjEB^nJaBf@Y`CpDvD|H}Ab@fAuD|ArGJ`GmCvMoXKsVfB_LxGqGfHDq@yBdDm@eEwEzC{CiDiKmOw@`OoD_MbAiAaAjOaEmHmPhAkEnDrAnEtMrLg@b@cMpDuNBwQgCo@ig@`LqKmJoFe@eExBcE|HwWjE}DtBuBvDt@~RcCnAjDtEmI|Gk@pErEjJvPrHjEdK]r@cEyBiB|AxGfVyFhLxCxGvC_CpEGh@nJeBp@UnCpDfDpH}Ar@`AaEzAnHRnFqClMqWEiWdB}KpHcHvGJ{@oBhDoA{E[sFuEkD|GaFcFkLhIqF}JeEa@aBvBdDdE{CnC{FiGwBdArAfFxBnAy@fCcF|@cEeCaCdAnG~VwFpLxCpG|GoDtAr@ZnJgBj@GdDzE|CpGiB^~@yD~AhI?nEeCbAqEfGuI@iCuGqIkFbHwCa@iE`@o@eDnAsC|G{@hBwBuA{CuAM_EjBeHo@uGbBoGxLtChG`DaClE?`@vJkBj@OvBzCdDxAb@tFoBtBt@`EcBrGuJQgFeFmJqHwA_Jn@eCbA}ClFjBnJnChBbBqB`IcBtArBfETn@{EoC{F_KaBwFnExAfJtHjBxDkE_AqFsEgAmCrBDhDjCzBtCaA`@}CoDkBqC`BZiBjEy@nC|BDrEkFfDuFmCcAeIpGkEnI|ApCtFc@vEsDMoByB{H~AiBrBcCeBeBeK`HkGhJm@hH|ApE`JDzFkGzIaMhEfINhEyBx@yB",
+"average_heartrate": 131.5,
+"average_speed": 8.869,
+"elevation_gain": 364.0,
+"source": "strava",
+"streak": 7
 }
 ]
