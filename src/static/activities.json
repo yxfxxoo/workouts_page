@@ -39182,5 +39182,21 @@
 "elevation_gain": 364.0,
 "source": "strava",
 "streak": 7
+},
+{
+"run_id": 19124673199,
+"name": "Zwift - Climb Portal: Col du Galibier (Valloire) at 100% Elevation in France",
+"distance": 43171.3,
+"moving_time": "2:01:04",
+"type": "VirtualRide",
+"start_date": "2026-06-30 12:49:32+00:00",
+"start_date_local": "2026-06-30 20:49:32",
+"location_country": "Piste du camp des Sapins, Nakar\u00e9, Thio, Province Sud, \u65b0\u5580\u91cc\u591a\u5c3c\u4e9a, 98829, \u6cd5\u56fd;\u6cd5\u570b",
+"summary_polyline": "vkscCe{bu^kGoC{AFqCnB}BG_DcA{HtEoNhEgDl@_IRuAv@sDHqG|JiBnFkBnCdCbLfBrDcA~BHz@~GjFlK~EnV~JzQ|DrEbDhENbK~BnThJta@bJ`GdDlBWrAXxa@nR~\\fGrFfGb@_@_@iCVSjGvFxFnAzIp@bIkFzDgAvFe@|BsCpAi@lJbC`EKjFnAdIo@hC}@zIvElE~@~CEfGiAbA}@zEWrCcBvGSnCpDzBp@~AFrBy@hK@hKxBrJiArGgAjGyFxCDxG`BtDHdLaCf@x@I|@oHhF_GlAoCnC{Ix@^b@hDCNf@eA[aFPiATIl@hEJbEnBtHx@fBgEzD[JfAs@lCeCjB_B\\Cp@fDa@jBj@tBnIbClDxKxIpCo@pC\\vFlIYl@wDz@yArCaDrAc@W[cDr@uBk@YoGdKsAnP\\pAnC~CTrEn@rB`KjNv@Kx@mArE]~Bj@`AnB~Gz@Hl@m@hBNn@`DrApHxFY|ARb@pD?pAcBcAfEuB\\?r@`@`@hDEjC}EJp@k@vDl@RpA]\\nAd@HPmAu@mHhEsDiB|EnB|BnBdHLjBQnCmAf@QrAnApAbB{@A}AiAu@RgCSeCgBmGqB}BZcBnAmBSUkEhEt@tGKjA}@uAmBTM_@n@yC]y@gCxEqCFs@q@Lc@fBMhAqE[Eu@xAmDHU[RgB{M_Jj@aC[y@}Fm@mAiB{Bw@mF\\_BtAyJuMy@cCWwEiDaFvA{PdGwJZHo@~B\\dDt@VpCgAtAoCvEwAHa@iGcJoCScCh@wKsIgC{DmAmGo@}@kBc@iCh@WStFkDn@kCMgA_ASiCh@aBbEaHs@gEkBqESj@g@rIKa@k@iC@i@_@zHe@`A[zAwBvFgArHcFZeA{@oAoHlBwCPqEWwEuAuCAeClC_CdBoHpAkJdAcKyBqK?yAp@gBE_Cs@gBwC_ASkFLoDhBkEPoBjAgEx@kEF}EoAyHaEuC~@eIj@wFoA_DHcJaCyA\\wCbDmFb@uEtAyGvEqHc@sH_BqFgFs@J\\~Be@`@}E}Fw`@{Hg^}PgB]qA\\iGgD_b@gJsTkJmJwB_FYcEwCcQwDae@eSyF}E`AeD_BeDc@}CkBgGjBuCbBgFnG_KBw@{HyIiAwC{AgA_Dc@_GxAsDiBSyBdB_FJgD{@cBcBs@cDcIeRUe@]@wBhBuBf@aCXoGvF_GOkD_TOc@q@NsBSmAeDgD{TaCgDy@oD{CsOkCq@_A?iEiEaC{@mAU_B`@{AlGyCLgFhCk@b@iB`DgA",
+"average_heartrate": 146.6,
+"average_speed": 5.943,
+"elevation_gain": 1271.0,
+"source": "strava",
+"streak": 1
 }
 ]
