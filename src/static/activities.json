@@ -39326,5 +39326,21 @@
 "elevation_gain": 398.0,
 "source": "strava",
 "streak": 6
+},
+{
+"run_id": 19199233124,
+"name": "Zwift - Race: Stage 5: Level Up Racing: Queen's Highway After Party (C)",
+"distance": 21250.4,
+"moving_time": "0:41:20",
+"type": "VirtualRide",
+"start_date": "2026-07-06 10:12:30+00:00",
+"start_date_local": "2026-07-06 18:12:30",
+"location_country": "Byron Walk, Low Harrogate, Harrogate, \u54c8\u7f57\u76d6\u7279, North Yorkshire, York and North Yorkshire, \u82f1\u683c\u5170;\u82f1\u683c\u862d, HG2 0LQ, \u82f1\u56fd;\u82f1\u570b",
+"summary_polyline": "m~ohIbelHuA{AkLhDi@ToAz@aDnCeAjAKj@Jj@jBpIv@fBD\\C\\_@^oBj@w@Hc@Im@i@}AsB}A}DMSOAmFzDwC|@iGrAK`@Z|GLlAN^r@bAjBhBX`@z@rFrBdHrD`IxC`G~AxDr@vBx@nDvApJHPNCpGgDnBmAd@_AV}@Hq@Dw@AuAFYl@k@xB_AJMBWm@yEcGm]mEmMKg@K{A@aBUYuCx@gAFSIg@a@oAaBu@wAeAmCQCcFtDgDdA}FlAQV^`IPfA^p@p@x@hBhBNf@v@`FpB~G~C|G|ClGtB~EvAlFn@rDj@jENh@NAvEcCdDoBb@u@^kANeBCsAFYJS\\YvB_AJGHSAq@k@{DuF_\\_@{A_EoLOyAD_BMi@YGq@\\aB^m@Dk@Mc@c@oAaBg@_AcAmCMSOAeFvD}C~@mGtAI`@XrGLjAJ`@pAhBtAlAT\\Lf@t@~EpBzGdCpFhExIfBdEn@zBn@nCpA|INf@ZIpFsC`CyAd@}@\\sAHmAAuAD[JS\\Y`CgAJMBWk@kEmGm^kEoMOwAD_BMi@YIq@ZaB`@m@Fi@OeAgA{@mAiBkEOImFzD{C~@wFjAUHGd@f@~I\\v@p@|@rBnBNf@d@fDZ~AhB`GlC~FnE`J`AzBp@pBr@tCf@lC|@nGFTJHdG}C`CyAZi@b@kANeB@oBHWl@e@rB}@JKDWGq@a@{CgGy]{DgL]mAGk@Am@@aBS_@mA`@iAVcAHUGg@a@qAaBu@uAeAoCOEoFxDwBr@kH~AK^ZzGJlAN^r@bA~A~Ad@l@dAlG`BvFh@pAfH~N~ArDp@rBr@xCR`AlAhIDVLHhFmC|CiBf@_AXaANkB?wAFYn@i@vB_AJO@YGs@m@}D{Fo\\_EkL[oAEm@@_BCo@WWwC|@eADSIy@w@oAeB_B}DMOSBeDhCgAp@qCx@}FnASRBnAVnFPhA`A|AzBxBNl@|@vFfB~FbJlR~A|DjAtE`@|B~@rGHTL?jE{BzD_Cl@sANk@LiBAwAHWl@g@vB_ALO@YGs@_@gCmGs^oEwMIk@E_BHm@Tc@XATVbA|A~C`EfCdCdE|CvAr@hBl@^\\`@~@ZbAnD`Q`BvG`BhEfFjKd@nAA^IXeKpPyArAwCvBu@`@mBl@UXs@fBgIjVKp@Ar@XrEfA|KHhBKp@YZ_@G{AoBo@EcB`@]Xw@hA",
+"average_heartrate": 135.6,
+"average_speed": 8.569,
+"elevation_gain": 308.0,
+"source": "strava",
+"streak": 7
 }
 ]
