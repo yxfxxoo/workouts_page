@@ -39406,5 +39406,37 @@
 "elevation_gain": 190.0,
 "source": "strava",
 "streak": 9
+},
+{
+"run_id": 19241140209,
+"name": "\u795e\u4ed9\u6e56",
+"distance": 11171.6,
+"moving_time": "1:00:08",
+"type": "Run",
+"start_date": "2026-07-09 10:03:15+00:00",
+"start_date_local": "2026-07-09 18:03:15",
+"location_country": "\u5927\u8fd0\u7eff\u9053, \u9f99\u57ce\u8857\u9053, \u9f99\u5c97\u533a, \u6df1\u5733\u5e02, \u5e7f\u4e1c\u7701, 518100, \u4e2d\u56fd",
+"summary_polyline": "cnniCwf_xTIPEnAIj@SfFB\\nApCHZp@pAlBnEdAdBv@|@`@Ox@{@R_@Pm@^o@Pm@AYSUu@BSEMKGg@N_@BOMQa@KOUES?KDUh@k@F_@Og@y@u@MSAIDOt@aAVgA?w@EIICqCH}@IgAa@qAu@MQIAEJC`@]lIHb@n@`B~AfDt@dBbAtBn@fAx@|@VGZWf@q@dA{BT_ACKIMcAFYKISC]Vi@ASIIg@GGGM_@?KDSh@q@@YIi@{@u@MSAOFQd@c@LSXwA?k@GIOCm@?iAJmAEm@Sg@[]Ga@YSYIAEHEl@@h@MdAC~@IrAArAlApCFTh@bApChGd@v@`AhALAf@]h@s@d@oAXa@PaACSOGy@BYMMi@Rg@BWEGm@MGIK]BWHMd@m@@]Yq@OQ]QKMAMD[f@e@LWRiA@[C][IqBLgAGcBo@s@a@S[I@I^?p@MvAOnEHj@NRdAlCrAlChApCjAlBZVPXPBr@k@PUZs@HYf@}@Ns@AWEKIGcAHWQGc@X_AIMm@MKUCOFg@`@i@Fa@Yo@o@e@EGCWP_@l@m@B_@Li@A{@IG_@CyBNo@EmAe@wAw@IQIAGJEh@SdGGx@@ZDRXh@x@tBpAhC~@|BxAjCr@r@ZIXYl@w@\\aAd@w@Ls@CYMGaAJ[SEO?QDWNY@SKIa@GYa@AQBSJQ\\c@Bc@GYMQw@o@GQ?ITa@d@g@VyAAm@IIKAkCL}@Ka@Ki@W_Ai@U[O?IX@n@]pHD`@n@`Bt@vAJ\\fDfHh@x@ZVNVNBl@_@d@o@d@oA\\e@TiA?MEIIEaANSGMSCQDUN_@BQGKk@MWWAc@DOh@u@B_@Qe@_Au@EYTc@h@o@TkAAq@IGQC{BJo@Cc@IwB_AMKQYI?GHCR@b@Gz@WnF@ZH`@Vd@Pj@p@tA^`ANPp@tAjApC`BzBXEf@_@RWf@mAh@}@TeAESMGM?g@Je@KI]RkAKMc@IMKCK?g@h@{@D]Mg@Y[]MOY@IPe@Z]NYNs@@eAIGMC{BJ_BMWI_B{@W]I?GHEd@?`@OpBChBIdADb@Xl@^fAl@jA~AtDnAhCf@r@\\\\R\\J?NGr@o@Vc@`@cAZg@Lm@Da@IOKCcAHOKI[",
+"average_heartrate": 153.2,
+"average_speed": 3.096,
+"elevation_gain": 36.0,
+"source": "strava",
+"streak": 10
+},
+{
+"run_id": 19242269432,
+"name": "Zwift - Cirque du Suffer in Paris",
+"distance": 24188.7,
+"moving_time": "0:40:33",
+"type": "VirtualRide",
+"start_date": "2026-07-09 12:02:25+00:00",
+"start_date_local": "2026-07-09 20:02:25",
+"location_country": "\u9999\u69ad\u4e3d\u820d\u5927\u8857, \u9999\u69ad\u4e3d\u820d\u8857\u533a, \u7b2c\u516b\u533a, \u5df4\u9ece, \u6cd5\u5170\u897f\u5c9b\u5927\u533a / \u6cd5\u862d\u897f\u5cf6\u5927\u5340, \u6cd5\u570b\u672c\u571f/\u6cd5\u56fd\u672c\u571f, 75008, \u6cd5\u56fd;\u6cd5\u570b",
+"summary_polyline": "{rgiH_obMs^daBcBj@{@fBDxB~@pA`AA`AuAMqDiA}@aBhAKdDvAxA`BaAJaDsAcBaBbAOfD|A`B~AsA@cDuAuAeBzA?|CzAnAzAiAPkBSoA}AeAwA~A@`D|AhAt@Wn@uAQaDaBy@sAdBRpD~An@pAgBK_DaBaA}AvBR|CbBt@nAcBG_D{AgAyA|A?~C|AnAzAsALqAWkBqA{@{AvA?dD~AnAzA{AGgD_BiAaAp@[dAP|C`Bv@rA_BE}CwAoA{AjAQhBNlA|AfAxA{ACcDyAkAcBlBL`DbBx@rA_BWyDuAk@wAdBJbDdB~@rAiBMeDaB}@yA~BXzC`Bl@nAgBM{Ce@u@cAKoAdBEjBZhAdBj@jAmBDoA_@_BcBe@kArBR|CfBl@lAkBDoA_@aBcBc@qAfC`@vCdB`@x@}@RkAa@wCgBYgAxBZzCfBb@lAkCe@uCkBS_A|B\\vCfB\\fAoBc@qDeBScAvBXtC~Al@p@a@b@}A[yCeBi@kAlB\\pDfB\\dAuBe@mDeBQeAtCl@pChBH|@aCc@uCcB[kAhC^nCtBX|@eCe@yCkBQaA`Cd@|CjBP~@cCe@yCiBScAbCd@xClBR`AaCe@yCkBWcA~B`@zCjB\\dA_C_@{CcBa@oAhCb@tCdB^hAuBW{CaBs@qAhBJ`Dz@z@v@AhAuBU{CcBq@wAdC^zChB`@fAyBe@mDgBSaAxCl@nChBDx@aCc@wCeBUgAnCf@tCfBP`AyBg@mDiBMaA~Bp@fDfBDz@eCi@wCiBM_AdCb@tChBVdA_Cc@_DmBUaA~B`@xChB\\dA{B]}CgBa@gAtBV|ChBj@hAwBW_DgBm@mArBT`DfBn@lAoB_@uDwA]qAlBN|CbBz@p@c@f@_B_@_DiB_@gA|B^|CfB\\fAyB[}CeBc@kAvBZ`DjB`@fA}B_@}CkB[eA~B^xCfB^hAuBY_DeBi@{@~@ShA^tCtBTz@cCe@sCgBWeA|B`@zCjBXbA_Cc@}CkBQaA|B^vCfB^fAyB[_DgBc@iAxBX~CvAl@vAcBIcDmAiAaBlAIdDfAtAfBq@ZgCaAeC}ARu@pCx@nClBQl@yCaAiCkBd@g@xChA|BxASp@sCk@}B{AUgA`BFnCv@hA|ASp@sCw@oCiBNs@pCt@jCjBIp@kCo@oCgB?{@bCf@rCxAZlAkBBuA{@iDto@ovCBqCgCaF\\{IjN{o@v@u@nOtK_O~p@",
+"average_heartrate": 140.1,
+"average_speed": 9.942,
+"elevation_gain": 38.0,
+"source": "strava",
+"streak": 10
 }
 ]
