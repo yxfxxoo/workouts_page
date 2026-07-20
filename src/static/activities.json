@@ -39662,5 +39662,21 @@
 "elevation_gain": 582.0,
 "source": "strava",
 "streak": 6
+},
+{
+"run_id": 19376471895,
+"name": "Zwift - Road to Sky in Watopia",
+"distance": 31622.8,
+"moving_time": "1:37:23",
+"type": "VirtualRide",
+"start_date": "2026-07-19 11:29:48+00:00",
+"start_date_local": "2026-07-19 19:29:48",
+"location_country": "Usili, Vanikoro, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b",
+"summary_polyline": "`eefAu~}y^GnErBvExDzDvD`AnDlFxB~AbIdAjEDhDm@hIyCfCUxGbBtF?^^M|A\\h@~Bi@~Cx@Lf@Ub@{CLk@nANb@jDtB`BfCh@nCm@tFrBfBp@vBk@fBPrAc@l@eAJoD_AkBrBZvAvBbB\\vB}ASo@TEd@p@fBuAt@HxB~CvA@fC^`CpDfDpArD|ChAbBnBdFbAvBy@bF[lBt@\\bC|@`A`Ds@hAFd@h@M|CeFpZ~KlNjAtCtD`DhBzHU@a@uBcAcBoB_A{E}@uC}DmGgFi@DA\\~ChCXxAYEa@sAwBu@_DmCm@H@f@rCzCdDbDz@~BYFKgA_A{@aD{Am@RSbCx@vEWvCTlC_ArEk@vHd@NTSHoB|@aDzEuBt@qALLyDnEe@`A[bG`@tCk@fAa@VwEIwDq@a@b@bFfCdB\\hCtBdBIlAaBNJwAxBeCt@cC}AaDQ_DcA_@^xHbDrBbCx@\\dFMnBsAtAJqAPkBtB}EfAwCc@cEyCo@?@n@vClB|ChDbK`AdDuCTLoCxDsAh@eJXcEe@TzBTvIjA|Bb@pDs@ZuBcAuBp@iCxE{BfGaFpHb@d@v@oAbDmBzGaClAE|B`EcBk@{A@{Ah@yItHEn@l@?jBqAlC?bGpF`ErAhFrCfFb@lAcBBbDu@hA}DhBcGt@Gp@|HfC|Gv@|BEvCgAmEzDeEtA_QfBcKbCK|@|@h@dDaAhHf@`@j@LxAS`AiBz@q@`AgDt@aASw@_A{AsGF}AdJwBpQoBtE}A`EsDG]gClAeDHqGy@kHiCP[|G_A|BeAnAkANsD[Ow@tAa@FmFo@kEiCcEuAiEqEeA_@wCJuBpAK_@jIoHbD{@`Cj@LUwBmD_AO{Bn@aHvCoBnBWFG[~EgHfGaNtBm@jB`Av@Ya@}DmAqCQyH[cBPY~Dn@nJe@rAy@|BiDUUsDtCaJw@kIcHA_@^A|DvChDj@hFoA|AmBhA?L]cBOoAdAoFV}@WqCwCsGcC?YrD`A`DTjAdA~@LzBs@tAkBBa@]Aw@nAeCLcBaBgCs@kEgCnEh@rFIx@yAa@eD`@uFfDqDp@yAUUw@lAcF`Cq@zBM`Cm@Zh@}H|@aEQkDTeCy@}EP{Bt@KbDdBh@p@LdA\\EB_@_AyBoHuHC]^E~ChC~B|@XdA\\H@cAuDwD\\GnGfFjClDtInC`AxA^lBZNJ_@e@qCuAsD_DcCoAuC{KeN?gAfEsU",
+"average_heartrate": 130.8,
+"average_speed": 5.412,
+"elevation_gain": 1066.0,
+"source": "strava",
+"streak": 7
 }
 ]
