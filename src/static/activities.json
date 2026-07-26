@@ -39790,5 +39790,21 @@
 "elevation_gain": 34.0,
 "source": "strava",
 "streak": 11
+},
+{
+"run_id": 19454545795,
+"name": "Zwift - VO2 & AC",
+"distance": 36407.5,
+"moving_time": "1:09:56",
+"type": "VirtualRide",
+"start_date": "2026-07-25 06:28:36+00:00",
+"start_date_local": "2026-07-25 14:28:36",
+"location_country": "Thio, Province Sud, \u65b0\u5580\u91cc\u591a\u5c3c\u4e9a, 98829, \u6cd5\u56fd;\u6cd5\u570b",
+"summary_polyline": "hfrcCsncu^oAkCXgBfK_Bn@aCuL}H]yAtAaEX_EtCk@`@cEpCm@z@eA\\oHfAeDcBeDsTeUkC}GwF}F_BS_ItAaFeBoARcDnF{DbC{A~DeCrBEtAh@pApD~@k@|BLlA_@b@aV_POg@\\y@z@OjBdBpB\\hA`BxA`@AnAyEpEpBlEl@bDwAhBwEmAiBbAkCLOnE_B`A}PAe@k@BwDeEiEsLo@qGgAmCw@oDwCqOmCk@{@F{DiFeDq@qAEcBbAeBbFgBNmF|C{@`@kBnDaAfByBxBw@vIHdBeABeB}CqBdCsCOm@aCgBz@gCCaAiF_DKw@nJiO~DnCxAL|@eDj@s@bDhAnA[v@oH~AK~CjA|A_@^iBwB}FQuBpBaB|@mFrAyAmAuD|DmMjCWtF{A`D}Ab@eBf@[hAv@u@jCr@dC`Bx@nI}AhBeChBm@hCdFz@x@|@~HUxBaB`CoD~A_CxBc@hCNhDrBlFdBdBbC@|FgC|DZhCbE^`EuAjDaDf@cFOyA~BIlDvEfFX~CmBdFwGxEqBxDc@xGnDxEC~BsCvEwD`C}A~DaCxBDzAp@jA|Cb@Hn@o@xAHxAsA@aSgNs@u@?m@nAo@nBdBxD|BbBn@IdAuEdE`DpJsArB}EkAcB~@}C\\BvLyFdG]|GiAtDeAz@F`C|R^fD`InB~@r@zAKlDcBxE\\fC|C|A|FmAvD`@lAz@~@fC~DfFbEfDrBBvB_AnEa@pBPtScGzCmC\\yByAcFcCFS{BwBiEWiB~@uA`JaAj@aABeAwLyH[gAzA_FTqDrCk@d@iEjCc@`AkA\\{HbA{Cy@sBwUkVqByFyD{E]iD^mG{@yGd@{BhEaI|CcCzDa@bG`AlC|COpD~AlB_AjB~C`A_@vBsBHCbC}CHLz@xBlA}@|AnCHY`BpBVGxB|BR@`CfEqBvB`E|Bo@n@jCnAJDtAxAwAz@~@p@mArAx@p@sDjAFl@gAjAv@dAkB~CjBf@IE_CjAw@TgBjAb@`@Uj@yKxGuF`AlBlAhGgFrGMfAnHjNr@pEFbG[rDuA`EaDbDKrNl@vA~HpHpAxBdDpBjB~HxI|LdElDQfCeDx@N|BuC~DOfBLrAp@h@vFoA~ApATtCuBbBf@tEsAxB_Fk@sA|AmA@yBzAgBcCqDi@_CsA@oAfBwAMgCoCUcAeDaHcCiPgCeCp@wJGeGmDqDgAsAN_ChBcCGuF}A_B_GqCCMyBqCyG|@eBxI_Ax@iAMcBaMaIzAeGL}CnD{A",
+"average_heartrate": 130.3,
+"average_speed": 8.677,
+"elevation_gain": 199.0,
+"source": "strava",
+"streak": 1
 }
 ]
