@@ -39854,5 +39854,53 @@
 "elevation_gain": 36.0,
 "source": "strava",
 "streak": 3
+},
+{
+"run_id": 19498229653,
+"name": "\u5927\u8fd0",
+"distance": 10485.1,
+"moving_time": "1:01:49",
+"type": "Run",
+"start_date": "2026-07-28 10:09:52+00:00",
+"start_date_local": "2026-07-28 18:09:52",
+"location_country": "\u5927\u8fd0\u4e2d\u5fc3\u4f53\u80b2\u573a, \u9f99\u98de\u5927\u9053, \u7231\u8054\u793e\u533a, \u9f99\u57ce\u8857\u9053, \u9f99\u5c97\u533a, \u6df1\u5733\u5e02, \u5e7f\u4e1c\u7701, 518100, \u4e2d\u56fd",
+"summary_polyline": "m|oiCizaxTA?f@MFKPKh@i@PWVaA?YFYDm@Ks@U_A[g@]a@qAq@_ASsAIy@NsAx@c@f@g@|@K`@Ov@DbAJv@jA`B~@t@l@Pj@FpA?NAf@SLCvA{@d@m@\\mAFy@?cAM[Ow@i@u@c@]cBq@]ImAIsAZi@\\s@t@KRQROVWnA?hANx@\\v@V\\~@t@^PpA\\dABt@QR?fAi@RQr@iAZcBAuAUcAKYU_@i@i@qAo@y@OaACsAPw@`@i@h@[d@Sh@SlA?r@Fn@Ln@L^NRdAdAl@XbATzAB`@GtBeAX_@P_@VuADqAS{AOg@eAeA{@g@c@IkAIe@?yA^w@d@YTCJQZSXQj@IfAJ`BPf@VXZd@vA`AbAXv@Fn@IdA_@f@Yd@c@b@o@VyABu@?SCI@M]qA]o@WYoAq@qA]_AAqARaAl@[Zw@dBE^BbABV?\\RbAT^pAjAXPf@Nf@Hd@?b@C\\Mz@It@_@b@c@^{@PcABm@A_AGe@Qm@c@u@_@[u@c@SGgBSi@?c@F_@Ly@d@e@^Y^IXCXWl@GX@h@NrAFVj@z@XZx@h@dA`@b@BjAI\\Gf@QtAy@Z_@Ra@LkA@gAEs@W{@c@s@WY{@YUSWI_AMkA?}@R_An@g@t@M^Wb@QvAFn@XlAl@`AXTRHVTj@Rj@H`@@p@Fx@M~@u@r@YRUZy@NyACU?i@UoA{@iA[UgBq@c@Eo@Cs@FaAVe@Z[ZU^i@bBGn@Bx@VbANN`@t@l@p@TNJ@LHv@FXH`@D`@C^SLMPGt@O`Aq@R]Ng@Jm@@cBe@kBu@{@_Ak@w@SgAKeAHyAn@[ZQH_@x@C^INKb@Iv@D`@Rp@Hb@JTdAhAn@\\`BXr@@f@G`A_@HKf@]Z[PSP]TiABaBIk@Y{@OQQKS[SOk@Y}A[}@@oANi@R{@r@Sl@IFSZKl@Gt@Fv@ZtAT^`@f@PZzAn@p@DjA?xBw@ZUl@u@HSD]Ni@Bg@AuAYkAGMgAgAwAm@_@?eAOo@DiA`@y@l@KJc@~@YbAG~@Bl@DZRj@`@n@zApA^V^BZJf@Bd@IlAc@",
+"average_heartrate": 144.7,
+"average_speed": 2.827,
+"elevation_gain": 11.0,
+"source": "strava",
+"streak": 4
+},
+{
+"run_id": 19498533073,
+"name": "\u5927\u8fd0",
+"distance": 469.8,
+"moving_time": "0:02:49",
+"type": "Run",
+"start_date": "2026-07-28 11:29:53+00:00",
+"start_date_local": "2026-07-28 19:29:53",
+"location_country": "\u4f53\u80b2\u573a\u96a7\u9053, \u9f99\u57ce\u8857\u9053, \u9f99\u5c97\u533a, \u6df1\u5733\u5e02, \u5e7f\u4e1c\u7701, 518100, \u4e2d\u56fd",
+"summary_polyline": "scpiC_vaxTU@?IG?g@@_@RORIb@@d@DNV\\f@ThA@j@Et@?`@GPOPUFe@A[COS[UOUGk@?IA]BMC]@",
+"average_heartrate": 127.3,
+"average_speed": 2.78,
+"elevation_gain": 1.0,
+"source": "strava",
+"streak": 4
+},
+{
+"run_id": 19499797615,
+"name": "Zwift - Hell of the North in France",
+"distance": 25687.0,
+"moving_time": "0:50:26",
+"type": "VirtualRide",
+"start_date": "2026-07-28 12:12:34+00:00",
+"start_date_local": "2026-07-28 20:12:34",
+"location_country": "Thio, Province Sud, \u65b0\u5580\u91cc\u591a\u5c3c\u4e9a, 98829, \u6cd5\u56fd;\u6cd5\u570b",
+"summary_polyline": "prtcCiygu^xBrG@n@{GzGm@~K[N}@i@WJQdBkAp@HzBg@FwCcB_@Ru@zAu@}@gAjAaAEq@tDSB[s@a@Kk@hAYOg@o@gAzAUKDiA}Ac@]uB]I}Ax@cCeEi@?y@`A{Ap@Sa@T}@Og@}BSPoBuB]^eAIa@k@IyANC]p@]Jk@_@g@aBo@?i@rBFf@M@aCVW`AV\\OZqB_@m@_C_@Dc@x@u@Mg@uA}AReD_@_A_CoBgBg@_FQcDbA_DhDqD`IInAz@|Hg@|BeAlByCzA}El@gAGgD{As@?y@n@cDlFgDlBwAxD_CjBMhAb@|An@`@dB@b@\\Dh@m@tAJnAQ\\aAIsSwNi@s@Fi@r@i@f@DnArApB\\pAdB`Bd@Lj@Of@yD~C]p@Lx@nBnD^tA@v@m@lAq@V{EmA_At@mCNi@\\FfL}FtG?pCYdCkAvDeA~@DvBj@XlLItCH\\RvCtH`CpAf@rAMdDcB~E?`AVx@xAfAnAZzCu@rBYdBF|@\\rAdAv@|B~B~Br@zAzEvDxA?jB{@xDa@vDBhCi@xCsAfEs@dDwA|BqBf@oA?y@eAiEW[gBX]UQcC{BeESoARw@h@g@lJkAf@aA?gAsLqH]i@Ac@zAwETsD^Y|BYZ{DpCm@dA}ARmA?mEdAkCQmAiAcBeU}U}BmGaEyEaC{@mHtA_CUcGkDcC_DYoAd@_Fh@cB`BqBrFwD`A}Av@oCFuAYmAcEeEYq@IuAh@gChAcAnETdDg@dAyA\\uCe@mC}A_DmB{@_D@sFdCeCUqBwCgAiDQyAJsChAyB`GaDrAkB^cC`@i@nFy@hAd@hE|DdC^hE}AzC{DXwBc@}CgDiFxGcCNg@c@[eOiBa@o@Ri@zCqAtGcEVu@sOkEDSr@OdJa@f@_@@e@W[cHeDVUrDPAk@gAwA|AsBHeAQbA}AnBH`@|@x@Bj@eDUY@KXrHvD?t@m@TsHV_Bd@\\f@nMxCd@h@yHfFeCdA]d@Hp@j@VnOrBBZWPmG|BLn@~CxEXhCYlBiCjDmBdAyBd@aBUoGgFgACyDv@g@h@WtBoAhByF~CaAfA]`AKvCJtAvAhEbBbC~BXbGeCtDBfAd@f@x@lAnCVpBa@rC}@nAiCb@oFOa@Nq@jAc@|BR`BzElFRbAEjAg@rBiArBqGrE{AxBaAxGFdAf@~@",
+"average_heartrate": 138.6,
+"average_speed": 8.489,
+"elevation_gain": 278.0,
+"source": "strava",
+"streak": 4
 }
 ]
