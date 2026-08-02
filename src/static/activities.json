@@ -39950,5 +39950,21 @@
 "elevation_gain": 157.0,
 "source": "strava",
 "streak": 5
+},
+{
+"run_id": 19555011161,
+"name": "Zwift - Pacer Group Ride with Yumi",
+"distance": 38277.2,
+"moving_time": "1:01:01",
+"type": "VirtualRide",
+"start_date": "2026-08-01 11:11:57+00:00",
+"start_date_local": "2026-08-01 19:11:57",
+"location_country": "Puma, Vanikoro, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b",
+"summary_polyline": "hn_fA{bcz^]yBv@sFuB_Gt@y@vCDf@aFt@s@rCRvCdBJbCzBn@cA|CdAzA|H[hC}CkAwE|CiDJsDoByFuFsEQgApAeFlEgBt@sAGgEcEgFzBiCIcDbI_Sr@qEm@sC}HiDeAiExIkTfCu@tEj@vCaExDQxAcAZiE}CgFrBsBhCx@rGjJpBw@~AyEhBX`A~@FpElCbBTdAYr@gC`Aa@fA?|JuArSxFdJdGh@pL{CbBj@xArROtCmBhBUfAPzFr@nC~Ax@bCM~G|A`B|A`@lCvAt@t@m@jDcKfAe@hCpAd@tCvFb@`BvCXlDc@~BsLtGkAnEuBx@iA|Aj@tDfB~@@`CeEbDoBcBwA?Kr@j@x@YnCaG`@i@~BkBhAu@tBuAe@jAgC]qBnAiAi@mAsBaAcBTs@j@NlCo@j@}BcEfAcEm@sDHwBtDZlBkByA{D{HbBRwGiCu@eANuBnC}C~@oCFoDeAcC|CuC\\gDzBxH~BjDwAjCl@Fn@u@j@gGhAcEc@k@p@lDr@nArAlFLdCg@fBdAnCzGaEhImHjAgAgBiB_AsAoD}An@q@Q}AuDo@Hc@hB{A_@iE??x@~BlCe@t@mDuA_@aDsCm@}CL{@^P|@zDEaEnBCl@jDfAVlAYrClBb@x@dAIr@uBbBeBb@k@vCs@?s@eBb@aBWgBiAy@mA@eAb@y@fCbArBEpAv@`A{A`Bs@`DyAuBjAwCeAGeBtACaCi@e@aB|@qApB{A]kFC_B`EXzC~@bA`CnFn@lFg@|J_D|Gs@bEZdC~BdDc@|FnApLqB`@On@lDbEeJdIYhCj@jDxAxCdCvBlNpFnEdK`BnA~Cg@EgA~@aA}ByA?mB{A{@`@aBjBQpA`DbCzAnDwBAu@yBsA]gAAuA`Ac@~BG`Bp@|EhJ~LeIlDhEv@TlCsGbGjErERW~@iCNbAbAEf@cGQeIfHmBpLl@|N]fF{GvNsBdBcCfIjDbHmAtEd@xDzIbO`BnKdMzKlBEhHqC~F~QxCrCnDl@pCkApEgFpIqHlFsTHyBc@wAwBiBgD{@wRF]y@b@wFc@mCuMeFmC]iIrA{O}B}Gb@mE}G|ByHbCcCfGeMf@iGm@sNdBmLpGqG`Do@dCp@Zq@cAgAdDm@Wy@gBMkA}CbCiAZkAgCqEc@sD}Dy@iILBk@`OuBcAc@cJnAcBOB_AfAu@tJoAhAs@iHoOKcCjBiBbBb@`GpOpJCtAkAJwKxDsO?}P{Bq@qLdD",
+"average_heartrate": 150.0,
+"average_speed": 10.455,
+"elevation_gain": 288.0,
+"source": "strava",
+"streak": 1
 }
 ]
