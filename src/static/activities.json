@@ -40046,5 +40046,21 @@
 "elevation_gain": 35.0,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 19638890945,
+"name": "\u795e\u4ed9\u6e56",
+"distance": 3133.5,
+"moving_time": "0:50:18",
+"type": "Hike",
+"start_date": "2026-08-07 09:54:05+00:00",
+"start_date_local": "2026-08-07 17:54:05",
+"location_country": "\u5927\u8fd0\u7eff\u9053, \u9f99\u57ce\u8857\u9053, \u9f99\u5c97\u533a, \u6df1\u5733\u5e02, \u5e7f\u4e1c\u7701, 518100, \u4e2d\u56fd",
+"summary_polyline": "soniC}g_xTTHNVDDHRPNd@VHANFz@^zAPTAJEP?h@CJEDBR?FDDV?ROf@Ah@CLg@b@OTCj@|@n@BDHTDj@CHa@d@GV?NJb@LJ^FJF@FSx@B^DFTNPBl@IH@BJ@TGf@c@p@KZI^EH@HPBRQRJP@HHHCDJNLHKB?@FPJn@JRHP@FVHFJDp@L`@NZDDA?]HCBGRCt@b@ZBNCR`@HFND\\a@BAH@ZLl@`@VFnA`@D@FGFQCOKa@GK@UBIIJ?XTr@MVm@SUG]OGAm@a@[MIAE@EDSZK?IIK[MIc@BSMYGSOQ?GJC@CH?RC@OGWCm@SK@]OEWCCYCk@OQCKGEKOLQSIAQGQCMKK@QRGEK@a@f@k@f@C@KCS_@SOWa@Mc@[e@Ms@g@s@W_@Q}@Y_@GQc@q@Mk@Yg@EMKOIWAMQg@?QFu@Ak@DOFeA?IIWBQ@?CMHgACO@QJEHTRNpB|@`@Jf@DNARB\\CFE}@@MD{A]sAu@[GOa@@FGAABDJBZ@A@B?@@CCS",
+"average_heartrate": 78.8,
+"average_speed": 1.038,
+"elevation_gain": 89.0,
+"source": "strava",
+"streak": 3
 }
 ]
