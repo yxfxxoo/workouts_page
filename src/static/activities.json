@@ -40142,5 +40142,21 @@
 "elevation_gain": 38.0,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 19892230435,
+"name": "Zwift - Cr\u00eape Escape in Paris",
+"distance": 16763.9,
+"moving_time": "0:30:56",
+"type": "VirtualRide",
+"start_date": "2026-08-25 11:57:31+00:00",
+"start_date_local": "2026-08-25 19:57:31",
+"location_country": "\u9999\u69ad\u4e3d\u820d\u5927\u8857, \u9999\u69ad\u4e3d\u820d\u8857\u533a, \u7b2c\u516b\u533a, \u5df4\u9ece, \u6cd5\u5170\u897f\u5c9b\u5927\u533a / \u6cd5\u862d\u897f\u5cf6\u5927\u5340, \u6cd5\u570b\u672c\u571f/\u6cd5\u56fd\u672c\u571f, 75008, \u6cd5\u56fd;\u6cd5\u570b",
+"summary_polyline": "qjgiHwkcMaB|H_DrNk@lCaAfE{AfHiIl_@kFtU_AjEwA~FeB|HOh@IRMLk@T[VW`@Qh@CVAn@@VHl@FRV`@\\RND^A\\OX[Rg@Jm@@YCo@[{ACW?YHq@pEqRrHa]zAkH`Kid@vBaKn@kCbKke@JSLONIPC`@@`@FhDj@N@NGLOPi@l@eCX{AvF}VjGmY@YGUMOm@c@cF}CqEcDYIO?MDKHKNWz@_ArE}ChNyFvWMl@AV?lAQ`CQj@MNQ?OGeMcIIKIQESGcAMg@GQ[UyAw@qAk@_@IOBOHKPGTc@bCAV@VNh@ZZnAv@LLJPBXCVITMN{UdO{CpB]Zk@l@sCvDgQzTiAjAy@fAOFMCIOIQu@uBIQMKOEsDFMEIMEQIwAKuD{Dy[wAeNuBwQQuB]uAc@qAw@_B{AkCISGU?YFYp@oB|@{D`@yBPkA?YGWKQ[[ISYcCGOIIK?eAZG@MCSMi@g@qAyAe@a@UGW?UNSXq@vAQVSNIDUBOA[KaAa@]Sm@m@QYCQ?a@Jm@p@qCJs@Du@?{CHgAJe@Tm@p@}AJ_@Jo@@YEu@Me@Ua@CME_@Bu@h@sELk@Vc@NIPAx@TR?RKNWF]DcBAcAKaDOy@Ym@OQc@[_Bw@cBa@i@@k@LuAf@sBv@WPQVM^Ib@q@tGy@lGYfCIbA?hD`@fLBnACdCHnAFXTj@\\`@NLxAz@t@l@xEbDj@h@bAfAtAlBrArBdEpHPZVbAL\\vCpFVt@D\\JzA`@jC~@rId@lDnBvQxDv[^vDLhBVfB\\lGHz@DZNJRENOjJsL~B_DzE_G|JqMbA{@\\g@NM`BkAhKwGhDsBpFkDlBiA\\[Ve@LIPBNJpMjIb@b@`@d@jAhB\\j@JXB\\?\\SrAgOpq@",
+"average_heartrate": 141.0,
+"average_speed": 9.032,
+"elevation_gain": 113.0,
+"source": "strava",
+"streak": 1
 }
 ]
