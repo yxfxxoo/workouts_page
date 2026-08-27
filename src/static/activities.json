@@ -40158,5 +40158,37 @@
 "elevation_gain": 113.0,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 19906006418,
+"name": "\u795e\u4ed9\u6e56",
+"distance": 5356.0,
+"moving_time": "0:27:38",
+"type": "Run",
+"start_date": "2026-08-26 10:07:38+00:00",
+"start_date_local": "2026-08-26 18:07:38",
+"location_country": "\u5927\u8fd0\u7eff\u9053, \u9f99\u57ce\u8857\u9053, \u9f99\u5c97\u533a, \u6df1\u5733\u5e02, \u5e7f\u4e1c\u7701, 518100, \u4e2d\u56fd",
+"summary_polyline": "}gniCuk~wTFHHXLV\\l@PRNHT\\HBJEHI\\QZ]Zo@Ts@`@o@Ja@@_@CGGIYAWB_@EIEGSE[N]?UEI]MIGMY?KH]`@s@DWAQEOS[e@[KMCIAODQp@_AJo@FUFw@EIUCqA?o@D{@Eo@Si@Y]Ka@YW[GFELGn@EzAG`@I|@ItB?NF\\\\|@HVR\\Vp@Xf@HZR\\FXV^HVb@p@Rj@Tb@Pd@PTVTNTb@b@P?RIp@q@FMVw@Pa@\\e@N}@CMEIGCe@DM?SEOKGQEUTk@@ECKGGYEUKIICI?SDQh@u@DW?UEYQQUQa@SGIASDQN[b@e@Pi@L{@AQCMKEKAs@FQ?UDa@@i@A]CUM_@Ks@]g@[W]IACDGh@GhB@r@In@B\\O|AFd@^hATf@HZrBbELb@^n@b@bANPh@|@TRNTHFL@HA`@Wb@o@R_@Tw@\\e@Le@BYAMGIQC]BKAUGGIGIAQLc@B_@KMe@OOY?OH[^i@Dg@ASK[WSe@WEICODOf@k@JUTkA@{@GGKAyBHiAEg@O{@_@WQ[MU[C?IPIf@Ep@E\\IbAE|AG~@@d@FN\\t@p@dBJPd@jAf@|@Ph@PVDR|ApCRVRPPZPB\\O`@]PUZm@V{@RWJc@D_@ASEGy@@OCOKCO?KLq@@SCGKGg@MGGCIAUDYb@s@De@CSGMY]i@]CGAQHSJQRMNUTgABg@AOGKKCw@@UDy@B_AEs@Uo@]YMYQUWEC",
+"average_heartrate": 152.3,
+"average_speed": 3.23,
+"elevation_gain": 17.0,
+"source": "strava",
+"streak": 2
+},
+{
+"run_id": 19906836955,
+"name": "Zwift - Ocean Lava Cliffside Loop in Watopia",
+"distance": 20059.9,
+"moving_time": "0:37:42",
+"type": "VirtualRide",
+"start_date": "2026-08-26 11:10:45+00:00",
+"start_date_local": "2026-08-26 19:10:45",
+"location_country": "Puma, Vanikoro, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b",
+"summary_polyline": "|y_fAqc_z^sE`Dw@|@MZQhA@bARrA^rAr@~Aj@v@~CbC~BdAdGfBnAx@hApBhAnDbA~BIZ[?qAuAoAa@kAL]X]n@Cf@RzAdC~HrBnFLp@I`@{@|@_@bBkAdAu@xAQfAHb@n@jAp@hCd@b@b@F`AYz@kBdACz@k@p@Jd@f@f@|DMtABrAOX{@BWNSv@AhAF\\RXzBjBr@\\d@DtDyAbAUf@b@?`@oC\\g@VIPFVTF`AQ|DT|AYnBcAt@s@Xm@h@yCb@i@v@c@h@u@xDaHbAkC`@kCHcCEmBe@sG@oCt@qGr@qCr@eAfCcBv@kAn@a@t@WbAIjBr@r@ERU@]S[o@MGUj@S~AD`@k@Ga@YWy@Da@Mc@w@i@eB?ORUvBi@Pe@@_@Qy@wBsCQsCQc@y@c@sAO{BEoD`@aAGMMBi@REbKy@nAYX_@U]g@AgJnAmA?[[AUNc@`Ak@bKuAb@OX_@Ke@m@_AoFkLQ_BNy@Ta@l@c@v@Mt@Tj@j@f@`AbC|I`@z@VVpBHbJ_@|^fGd@NPTH~ET\\\\Jd@GTa@LuCj@eBj@{@b@OVNTl@s@lGPnA^l@tB|@vEhAlNtC|@CZUnAwCx@mA~BiA^]VcB\\o@dCiAf@e@p@uC`BeC`@gCDsDQiCJq@~@kAzAKj@QvAaBLw@C{@_@e@w@QWSq@kBD{@Ro@RSf@ShByAh@QP[@i@[eAIgBHw@Ts@p@s@H_@Ao@i@_AH]f@Mj@f@ZBz@}@pAWXc@Cy@MYq@m@?i@J]v@{@ReAPUj@UfAO\\a@Hk@KmA\\aAPqBd@iBEo@oBkD}CoC_EiCqE_BiDq@eE[_FLeHx@iFpA{Ah@iBbAgCEm@\\Ux@?\\jAdBD\\G`Bb@r@hA~@J\\G~@SZ_A@q@i@_AoA{@UqBrByEnBib@zJwUpG{At@Un@Jr@fBrFILiLzCeFp@mB?cBq@aEsFq@q@}By@eAIuAJ}Ah@aBnAg@~@wAxDa@j@{@h@mCj@qMxAyCp@cBp@oAx@aAhAs@zAe@nCBzBlAdKMX}ATUVAPJb@pCtBNv@o@~@qGnEw@|ACnB`@`Cx@xB`BrBjEjCfGdBzAt@f@d@j@bAh@zA",
+"average_heartrate": 142.7,
+"average_speed": 8.868,
+"elevation_gain": 165.0,
+"source": "strava",
+"streak": 2
 }
 ]
