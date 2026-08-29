@@ -40206,5 +40206,21 @@
 "elevation_gain": 163.0,
 "source": "strava",
 "streak": 3
+},
+{
+"run_id": 19944029315,
+"name": "Morning E-Bike Ride",
+"distance": 100948.0,
+"moving_time": "3:01:08",
+"type": "Ride",
+"start_date": "2026-08-29 01:48:20+00:00",
+"start_date_local": "2026-08-29 09:48:20",
+"location_country": "\u7554\u6e56\u6751, \u56ed\u5c71\u8857\u9053, \u9f99\u5c97\u533a, \u6df1\u5733\u5e02, \u5e7f\u4e1c\u7701, 518100, \u4e2d\u56fd",
+"summary_polyline": "abiiCom`xTbBfDlH|f@Qr@vR~EpDlArJ~E`@lAeArFm@dHoLbY`D|LGjAiDtBiAnCoIe@kKbDkFLgBb@YbA?vE}@dD_CjFyBxAjAjGq@lCqInOoJlDcE~DmHnBy@uAq@GgInDsAJyb@AsOrE_A?yOtNaLt@oIkBqK^kWqB{K`Bg@d@uE|@uInEgLcB_BcBaCw@mCn@_ExBsCJ{UzKmOzK]jGa@v@eo@GqI`@_XlFw|@`EiDtBiOfNcVt_@qGtIuUpM{AvAmBvE}BfSuB~DsChBcT|GqAUXb@oBbEqCxKya@rj@sE`LgKb\\cGlKoJzGiSpHwPtI{CzDmWlTwD~BcFbB_D^{a@nAoGrBiYxX_KjIaDpDuD`CiEvAar@vMmJa@wWcE{R~A}CYmNeGeUmH{TOkGt@}AmBkIe@qZ_HcA|CiMjE}i@da@ej@xCw@}K\\`LuCPIxAjDK\\bKuIf@{A[w@xAmAm@qBZb@lAqA|@qIFcI~@g_Af\\k[jH_X~CiaD`^{HdDwUpUk]vPgc@nWo\\hQo@MqBwEaAsETo@c@s@w@Dj@xE|CpJtFfHpFzCbIzBhMjFbM`G~C~DxIoNnAmJq@{@Le@c@bAC|@f@^o@vHkJdNsCkFaMwGkZ}KqIgIiJJwBYoGuCuDqEmK{PqEyCkIsAsE^eHnCgo@~b@_a@~P{SxFuu@pLyYrGgP|@gEGuQoEoLgFmM{GaI{GmX{^uD_EgFoC_G}@wy@nBin@tHye@dEuDpCkNdVaBbBsA^oDR}Xa@iLWqGs@kL_Eij@uVmM{Imp@aj@eEaGkCoGih@cbBoC_GiJuKsc@{a@iGsEuI}DoSmEmUsAsvI_NccAcC_FuA_C_BwbBarA_B~AmBvEeAdOB~CWZmO|A}Tr@aOMeDaByB@kHlBoAhAeGpAcDzAsCnC}C]cB{@cBiBsLCwXxI}HvAel@b@kVdCqEbBaD`EiT`g@UhE^lUgFjVcCtd@_HfXwSdUmCtEsW~`BiD`MqPlt@mSKasAkDkj@`Au@Vm@fA}@jOObFZxQkd@}Bqf@iD}H_Cak@kV{HiAaOm@}HsCut@oq@aOaMsJcK{HaLcSyPkByEE_FtNkk@b@sFl@aXe@_BiDsFcMsLyFcCah@mB{c@fBiFSzLA~Ao@TaCY}Jz@yGt@uAdKwIhBaH`NwNvAqDrE_G|@oCLmCo@cDuCyCeDwBiJb@kJtAiDi@jAh@xA@pT{BxBv@fFhFb@lBCnDiArCuElGgAvC}A~AeB]NSKP|Af@",
+"average_heartrate": 83.3,
+"average_speed": 9.289,
+"elevation_gain": 460.0,
+"source": "strava",
+"streak": 1
 }
 ]
