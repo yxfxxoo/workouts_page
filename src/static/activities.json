@@ -40254,5 +40254,21 @@
 "elevation_gain": 382.0,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 20018190298,
+"name": "Zwift - Pacer Group Ride with Maria",
+"distance": 30217.1,
+"moving_time": "1:03:31",
+"type": "VirtualRide",
+"start_date": "2026-09-03 10:12:05+00:00",
+"start_date_local": "2026-09-03 18:12:05",
+"location_country": "1830, East Broad Street, Shockoe Bottom, Church Hill, East End, \u91cc\u58eb\u6ee1;\u91cc\u5947\u8499, \u5f17\u5409\u5c3c\u4e9a\u5dde / \u7dad\u5409\u5c3c\u4e9e\u5dde / \u7dad\u73cd\u5c3c\u4e9e\u5dde, 23223, \u7f8e\u56fd;\u7f8e\u570b",
+"summary_polyline": "yabdFp~pwMo@tA?d@nAbBlKzJ@Xc@hAkBpDcC~DcBfDuGhLYAy@[q@s@qAi@uAy@eA[{ASqByAYAMLuBvD}BzEiIrOmH~NqCzFCh@FP|DhEtDlDvBpAb@ELM`@q@vDoIfGkLnLuUhK{RpBiDRUX?lGxGVHVIhA}BTs@Dw@KcCPiA|BuFtEqHvFkK`@_BdAsBrGsKpCcEfAsAhPuLxEeF`@SvH}Bv@i@Lc@Oa@MA}AVaHvC_At@oDhE{@n@mAh@kAPoEUgJ|AMEASd@i@?]}@a@_APKM@Yx@_@b@cA\\Pd@h@\\Fh@YD_@Om@{AeBYY_@B_A|BwIhPMb@Nb@fC|BEf@{CvGSXYJYM_D_D{AkBmEqEa@FwNvX[`AFd@|@fA|KhK@Xi@rAaB|CgC~DcDlG{EpIy@Sa@Wa@g@kAe@wAy@uAe@oAMkByAYGUJy@tAcFdK{AlCqRt_@Yv@?TLd@pJjJjBlAPBb@Mb@s@vDoIdDkGbFiK~KkTxKyRXGXPfGjGTDPQvAaDDoAMcBT_B`CoFhEcHzCsFdBkD`@eBx@yAjHqLlC_E`AkArPyLpE}E\\SpFyAzAm@d@a@FOAe@YQ}AZeHxCo@f@eEzEkAt@}@Z{@LuEScJ~AOACQd@o@@WEKo@WmAJI]|@i@`@_A^N^d@XJ^CPOHi@Oi@yAeB]U_@Cw@rByFlKqBbEDb@TZhBxAN^Mf@kCtFi@r@]CkBeBiGaHyAuAWCSLmB~D{JhR]x@Ab@LXv@bAtK|JFZGZk@hAgBhDeC`EaJtPOLqA_@u@u@gAa@sAy@kAa@uAOyB_BOCQHgT~a@qIxPMf@Fh@bElEtE`EnAt@P@`@Sb@q@dDuHtMsWrJ{QzAeCfDuGvBqDRWZBdGjGRNV?dBkDHy@OoCTmAzBmF|E}HxCqFvAsC`@gBl@kAjHwLrCiEh@s@p@k@fPuLtE}E`HqBzAy@Na@Oc@_AF}@VsGnC_Az@wDjEwBhAiAR}EO{Bf@cFp@MACQj@u@@MIUs@UiANGM@Sz@e@^aAVHh@j@ZHR?XUFi@Qg@sAaBYU]GWX}@`CgGfLkAdCBb@`CtBN`@sAbDuAtCWV[AWQ_EmEgFoF]U]FcBdD_KrRc@`AIb@Hb@dAjAfKrJJRAXm@vA}IfPoBbDaCvEOLsA]y@{@uAk@mAs@eA]yAQmByAQCWNoQp]kLrUCj@FT~ChDtDlD|AhA",
+"average_heartrate": 127.4,
+"average_speed": 7.929,
+"elevation_gain": 450.0,
+"source": "strava",
+"streak": 1
 }
 ]
