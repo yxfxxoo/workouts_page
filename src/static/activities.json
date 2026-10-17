@@ -40798,5 +40798,37 @@
 "elevation_gain": 35.0,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 20607430704,
+"name": "\u795e\u4ed9\u6e56",
+"distance": 10025.0,
+"moving_time": "0:52:53",
+"type": "Run",
+"start_date": "2026-10-16 10:12:07+00:00",
+"start_date_local": "2026-10-16 18:12:07",
+"location_country": "\u5927\u8fd0\u7eff\u9053, \u9f99\u57ce\u8857\u9053, \u9f99\u5c97\u533a, \u6df1\u5733\u5e02, \u5e7f\u4e1c\u7701, 518100, \u4e2d\u56fd",
+"summary_polyline": "mnniCyf_xTILSvCAvAQtBHj@hArC`@v@p@|AXf@Nb@r@xAdAhBPNR\\LDt@c@Z_@Xg@Pm@\\m@NkA?KKIw@@OCMKE[Pq@?So@[MOCIBc@b@{@Ao@EOMMm@c@K]BQTe@\\[XsABo@GGUCoCHq@Ec@MiB_AY_@MPSpBOlDCvANh@`@jA|@bBbDpHn@dAn@p@J@HCd@_@d@s@Re@L_@`@u@DQD]AWIKcABQKEKCO@KNc@BWIIk@YKSAQDY^{@BUA[GMKOm@c@IS@Yj@y@b@qADk@AOIGSCkCLe@Cm@M_@OuAs@[_@G@OnBCjAIl@?|@Gn@?p@HZj@zAvB|En@pAJZfApB`AjAN@n@i@Xa@Te@HYl@oALa@@QCYKEcAJMCGGEIAQPy@?KEKk@QMMEW@QHWb@y@B[IWeAy@GO?KBKLWZ]Tc@P}@Bg@CKCCKEYAq@Jq@B}@Eo@KwBeAQUMEEFEX@j@Kz@?|@OnC?t@FTl@~AfAxBp@`BVd@Rh@r@zAj@|@x@bAH@JE^[h@s@V}@p@uAHe@CYGGSAe@DQCIGGWL{@?MGKk@SGKEQ?QDU^o@D[?OIUW[i@YGO?KPe@\\]HQDe@Pq@@c@CKIGK?qCNo@Gw@UcBy@S]I?EFEn@C|BIl@AfBGp@D\\t@lBZf@FRP^L\\`AtBNb@NTlAdCdArAFBJCj@i@Ze@fAaCPy@?QGOWAKDW?[QEICSNm@?IMOi@UKSAW@MFQ^k@@e@CQMSw@m@EK?QP_@`@c@HOXwA?i@CESC_CLg@?o@Gw@YaAi@YUMQI?I^@v@Ir@Ax@QxDAJHX^v@Vr@n@lA~AvDTZdA|BjA|AFBVMVU`@k@l@_B\\i@Pw@CUKIk@DMA[QKQ?INq@?MKMm@WIU?YJ]^c@BI@WEWIOUSg@[GICULWb@c@PWRsA@_@CMIEWC{ALgA@s@Ke@Q[Wq@[]c@I?ED?jAGn@SfGJZz@vBf@`ATr@l@~@~@`CZ^n@pAt@~@FDTKh@a@Z]Tm@x@_BLe@?SGQIEMCo@DKAMKGWTq@?Wq@UU[CMBQd@}@D_@Ga@_A_AGYTa@d@k@PcA?s@AKGIg@EOB",
+"average_heartrate": 149.6,
+"average_speed": 3.159,
+"elevation_gain": 36.0,
+"source": "strava",
+"streak": 1
+},
+{
+"run_id": 20607430618,
+"name": "\u795e\u4ed9\u6e56",
+"distance": 1496.6,
+"moving_time": "0:14:52",
+"type": "Hike",
+"start_date": "2026-10-16 11:05:35+00:00",
+"start_date_local": "2026-10-16 19:05:35",
+"location_country": "\u5927\u8fd0\u7eff\u9053, \u9f99\u57ce\u8857\u9053, \u9f99\u5c97\u533a, \u6df1\u5733\u5e02, \u5e7f\u4e1c\u7701, 518100, \u4e2d\u56fd",
+"summary_polyline": "sdniCoc_xTgAJ}@KiA]k@Yk@]OUMXOvACp@Ar@OjDBT~@zBLN\\bA^n@n@vALTZx@NRTh@r@nAl@f@HNHZEP?RGBPm@?EM_@k@g@c@{@GIs@wAK]c@w@]}@]k@m@sAGUa@y@Y{@CQBiATkFAwAOM]C?@BE",
+"average_heartrate": 95.2,
+"average_speed": 1.678,
+"elevation_gain": 11.0,
+"source": "strava",
+"streak": 1
 }
 ]
